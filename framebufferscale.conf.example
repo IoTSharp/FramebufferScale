@@ -1,0 +1,7 @@
+# Install as /etc/framebufferscale.conf when the launcher is not used.
+virtual_size=1280x720
+system_size=auto
+mode=fit
+fps=15
+seconds=0
+# program=emrc_main
