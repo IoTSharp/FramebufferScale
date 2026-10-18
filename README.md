@@ -4,14 +4,7 @@
 
 Pure C Linux framebuffer virtualization and scaling. The application keeps a required virtual framebuffer size while the adapter renders it to an automatically detected or explicitly selected system resolution.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="assets/wecom-group.jpg" alt="IoTSharp WeCom group" width="240" /><br />IoTSharp 企微群 / WeCom group</td>
-      <td align="center"><img src="assets/qq-group.png" alt="IoTSharp QQ group" width="240" /><br />IoTSharp QQ 群 / QQ group</td>
-    </tr>
-  </table>
-</div>
+
 
 ## 功能 / Features
 
@@ -83,3 +76,14 @@ Copy `framebufferscale.conf.example` to `/etc/framebufferscale.conf`. Initializa
 ## 许可证 / License
 
 MIT License。
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="assets/wecom-group.jpg" alt="IoTSharp WeCom group" width="240" /><br />IoTSharp 企微群 / WeCom group</td>
+      <td align="center"><img src="assets/qq-group.png" alt="IoTSharp QQ group" width="240" /><br />IoTSharp QQ 群 / QQ group</td>
+    </tr>
+  </table>
+</div>
+
